@@ -145,7 +145,6 @@
     <Compile Include="InputHandling\GripHandler.cs" />
     <Compile Include="InputHandling\InputHandler.cs" />
     <Compile Include="InputHandling\InputManager.cs" />
-    <Compile Include="UI\MODUI.cs" />
     <Compile Include="MovementController.cs" />
     <Compile Include="SaberTrickModel.cs" />
     <Compile Include="Tricks\SpinTrick.cs" />
